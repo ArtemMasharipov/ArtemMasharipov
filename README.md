@@ -1,8 +1,5 @@
 # 👋 Hi, I'm **Artem Masharipov**
-### Frontend / Full-Stack Developer | Vue.js & Node.js | React.js Enthusiast  
-
-
-🔗 [LinkedIn](https://linkedin.com/in/artem-masharipov) 
+### Frontend Developer | Vue.js (main), React (strong) | Node.js, MongoDB | Building Modern Web Apps
 
 ---
 
