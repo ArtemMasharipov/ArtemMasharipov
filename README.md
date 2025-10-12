@@ -1,51 +1,63 @@
-# 👋 Hi, I'm **Artem Masharipov**
-### Frontend Developer | Vue.js (main), React (strong) | Node.js, MongoDB | Building Modern Web Apps
+# Artem Masharipov  
+### Frontend Developer (Vue.js / React.js) | Node.js Experience  
 
 ---
 
-### 🧭 About Me
-Full-Stack Developer with a **frontend focus** and a passion for clean, scalable architecture.  
-Skilled in **Vue.js 3** (Options & Composition API), **Pinia**, **Node.js**, and **MongoDB**.  
-I build responsive SPAs with reusable components, secure authentication, and modern design systems.  
-Currently exploring **React.js** and expanding full-stack expertise.  
+## Professional Summary
+Frontend Developer focused on building scalable, responsive SPAs using **Vue.js** and **React.js**.  
+Experienced in integrating frontend with backend systems using **Node.js** and **MongoDB**.  
+Passionate about clean code, reusable components, and modern architectural patterns.
 
 ---
 
-### 🧠 Tech Stack
-**Frontend:** Vue 3 / 2, Pinia, Vuex, Vuetify 3, Tailwind CSS, React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS, Vite, Axios  
-**Backend:** Node.js, Express.js, MongoDB, Mongoose, Firebase Firestore, Cloudinary, RESTful APIs, JWT Auth  
-**Architecture & Tools:** Clean Architecture, DDD, MVC, ESLint, Prettier, Postman, Git, GitHub, Cursor AI, Copilot  
+## Technical Skills
+
+**Frontend:**  
+Vue 3 / 2, Pinia, Vuex, Vuetify 3, Tailwind CSS, React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS, Vite, Axios  
+
+**Backend:**  
+Node.js, Express.js, MongoDB, Mongoose, Firebase Firestore, Cloudinary, RESTful APIs, JWT Authentication  
+
+**Architecture & Tools:**  
+Clean Architecture, DDD, MVC, ESLint, Prettier, Postman, Git, GitHub, Cursor AI, Copilot  
 
 ---
 
-### 🚀 Featured Project
-#### 🏪 [Fullstack Bookstore Application](https://github.com/ArtemMasharipov/fullstack-bookstore-app)
-**Stack:** Vue 3 (Composition API) • Node.js • Express • MongoDB • Vuetify 3  
-- Built full-stack bookstore with JWT auth and role-based access  
+## Selected Projects
+
+**Fullstack Bookstore Application**  
+[GitHub Repository](https://github.com/ArtemMasharipov/fullstack-bookstore-app)  
+
+- Full-stack bookstore application with JWT authentication and role-based access  
 - Clean architecture with domain-layer separation  
-- Integrated Cloudinary & Firebase Firestore  
-- Responsive UI and admin dashboard  
+- Cloudinary & Firebase Firestore integration  
+- Responsive UI with Vuetify 3, including admin dashboard  
 
 ---
 
-### 🎓 Education & Certifications
-- **Node.js Developer Course (200+ hrs)** – Andriy Bryla, 2024–2025  
-- **React.js Advanced Developer Course** – Andriy Bryla, 2025  
-- **Vue.js Advanced Course** – Andriy Bryla, 2023  
-- **Frontend Fundamentals** – Ciklum, 2024  
-- **MSc-equivalent, Information Systems & Technologies in Economics** – Kharkiv National University of Economics  
+## Education & Certifications
+
+- Node.js Developer Course (200+ hrs) – Andriy Bryla, 2024–2025  
+- React.js Advanced Developer Course – Andriy Bryla, 2025  
+- Vue.js Advanced Course – Andriy Bryla, 2023  
+- Frontend Fundamentals – Ciklum, 2024  
+- MSc-equivalent, Information Systems & Technologies in Economics – Kharkiv National University of Economics  
 
 ---
 
-### 🌍 Languages
-🇬🇧 English (B2+) 🇺🇦 Ukrainian (Native) 🇷🇺 Russian (Fluent) 🇨🇿 Czech (A2–B1)
+## Languages
+
+English (B2+) | Ukrainian (Native) | Russian (Fluent) | Czech (A2–B1)  
 
 ---
 
-### 💡 Current Focus
-Expanding React.js & Node.js stack • Applying clean architecture in production-like apps •  
-Leveraging AI-powered tools (Cursor, Copilot) for code optimization and faster delivery.
+## Current Focus
+
+- Strengthening frontend expertise with **Vue.js** and **React.js**  
+- Leveraging **Node.js** for backend integration  
+- Applying clean architecture principles in production-ready applications  
+- Utilizing AI-assisted tools (Cursor, Copilot) for efficient and maintainable code  
 
 ---
 
-⭐️ *“Clean code is not just about rules — it’s about empathy for the next developer.”*
+> "Clean code is not just about rules — it’s about empathy for the next developer."
