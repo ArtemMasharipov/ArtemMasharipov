@@ -19,7 +19,7 @@ Vue 3 / 2, Pinia, Vuex, Vuetify 3, Tailwind CSS, React.js, JavaScript (ES6+), Ty
 Node.js, Express.js, MongoDB, Mongoose, Firebase Firestore, Cloudinary, RESTful APIs, JWT Authentication  
 
 **Architecture & Tools:**  
-Clean Architecture, DDD, MVC, ESLint, Prettier, Postman, Git, GitHub, Cursor AI, Copilot  
+Clean Architecture, FSD, DDD, MVC, ESLint, Prettier, Postman, Git, GitHub, Cursor AI, Copilot  
 
 ---
 
