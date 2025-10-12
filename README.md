@@ -2,7 +2,7 @@
 ### Frontend / Full-Stack Developer | Vue.js & Node.js | React.js Enthusiast  
 
 
-🔗 [LinkedIn](https://linkedin.com/in/artem-masharipov) | [GitHub](https://github.com/ArtemMasharipov)
+🔗 [LinkedIn](https://linkedin.com/in/artem-masharipov) 
 
 ---
 
