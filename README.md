@@ -23,34 +23,6 @@ Clean Architecture, DDD, MVC, ESLint, Prettier, Postman, Git, GitHub, Cursor AI,
 
 ---
 
-## Selected Projects
-
-**Fullstack Bookstore Application**  
-[GitHub Repository](https://github.com/ArtemMasharipov/fullstack-bookstore-app)  
-
-- Full-stack bookstore application with JWT authentication and role-based access  
-- Clean architecture with domain-layer separation  
-- Cloudinary & Firebase Firestore integration  
-- Responsive UI with Vuetify 3, including admin dashboard  
-
----
-
-## Education & Certifications
-
-- Node.js Developer Course (200+ hrs) – Andriy Bryla, 2024–2025  
-- React.js Advanced Developer Course – Andriy Bryla, 2025  
-- Vue.js Advanced Course – Andriy Bryla, 2023  
-- Frontend Fundamentals – Ciklum, 2024  
-- MSc-equivalent, Information Systems & Technologies in Economics – Kharkiv National University of Economics  
-
----
-
-## Languages
-
-English (B2+) | Ukrainian (Native) | Russian (Fluent) | Czech (A2–B1)  
-
----
-
 ## Current Focus
 
 - Strengthening frontend expertise with **Vue.js** and **React.js**  
