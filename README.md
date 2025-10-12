@@ -1,8 +1,7 @@
 # 👋 Hi, I'm **Artem Masharipov**
 ### Frontend / Full-Stack Developer | Vue.js & Node.js | React.js Enthusiast  
 
-📍 **Czech Republic**  
-📧 **artemmasharipov1987@gmail.com**  
+
 🔗 [LinkedIn](https://linkedin.com/in/artem-masharipov) | [GitHub](https://github.com/ArtemMasharipov)
 
 ---
