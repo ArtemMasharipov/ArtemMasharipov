@@ -1,13 +1,10 @@
 # Artem Masharipov
-**Frontend Developer** | Vue.js · React · Node.js
 
----
+**Frontend Developer** | Vue.js · React · Node.js
 
 ## Professional Summary
 
 Frontend Developer specializing in Vue.js with strong React expertise. Experienced in building scalable single-page applications and full-stack development with Node.js and MongoDB. Focused on implementing clean architecture patterns and delivering maintainable, production-ready code.
-
----
 
 ## Technical Skills
 
@@ -25,8 +22,6 @@ Vite, Axios, Git, ESLint, Prettier
 
 **Architecture & Patterns**  
 Clean Architecture, Feature-Sliced Design, MVC
-
----
 
 ## Core Competencies
 
@@ -59,15 +54,9 @@ Clean Architecture, Feature-Sliced Design, MVC
 - Code quality tools and standards
 - Internationalization (i18n) implementation
 
----
-
 ## Current Work
 
 - Developing production Vue.js applications with modern architecture patterns
 - Building React applications with focus on performance and scalability
 - Implementing state management solutions for complex data flows
 - Maintaining high code quality standards and best practices
-
----
-
-**583 contributions** in the last year
