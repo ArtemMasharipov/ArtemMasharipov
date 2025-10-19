@@ -1,5 +1,5 @@
 # Artem Masharipov  
-### Frontend Developer (Vue.js / React.js) | Node.js Experience  
+### Frontend Developer (Vue.js / React.js) | Node.js | MongoDB
 
 ---
 
